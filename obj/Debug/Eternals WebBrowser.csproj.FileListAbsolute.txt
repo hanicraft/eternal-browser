@@ -1,0 +1,9 @@
+D:\decompiled tools\eternal browser\2\bin\Debug\Eternals WebBrowser.exe
+D:\decompiled tools\eternal browser\2\bin\Debug\Eternals WebBrowser.pdb
+D:\decompiled tools\eternal browser\2\obj\Debug\Eternals WebBrowser.csproj.AssemblyReference.cache
+D:\decompiled tools\eternal browser\2\obj\Debug\Eternals_WebBrowser.Form1.resources
+D:\decompiled tools\eternal browser\2\obj\Debug\Eternals_WebBrowser.Resources.resources
+D:\decompiled tools\eternal browser\2\obj\Debug\Eternals WebBrowser.csproj.GenerateResource.cache
+D:\decompiled tools\eternal browser\2\obj\Debug\Eternals WebBrowser.csproj.CoreCompileInputs.cache
+D:\decompiled tools\eternal browser\2\obj\Debug\Eternals WebBrowser.exe
+D:\decompiled tools\eternal browser\2\obj\Debug\Eternals WebBrowser.pdb
